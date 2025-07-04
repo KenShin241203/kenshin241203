@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.dribbble.com/userupload/37512869/file/original-5ab95803b8a7da75f6fedf5fda568e87.png?resize=1024x574&vertical=center)](https://kenshin241203.io)
+[![MasterHead](https://cdn.dribbble.com/userupload/37512869/file/original-5ab95803b8a7da75f6fedf5fda568e87.png?resize=1024x400&vertical=center)](https://kenshin241203.io)
 
 <h1 align="center">Hi 👋, I'm Michael Đinh</h1>
 <h3 align="center">A passionate full-stack developer from VietNam</h3>
